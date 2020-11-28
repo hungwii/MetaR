@@ -148,7 +148,7 @@ if __name__ == '__main__':
                     rowtext = '{} {} {} {} {}'.format(row[0][1], row[0][0], row[0][2], row[1], row[2])
                     output.write(rowtext)
                     output.write('\n')
-                output.write('\n')
+                # output.write('\n')
     elif params['step'] == 'dev':
         print(params['prefix'])
         if params['eval_by_rel']:
