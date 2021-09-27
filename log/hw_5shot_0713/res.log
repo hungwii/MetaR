@@ -1,0 +1,227 @@
+2020-07-14 08:47:17,912 - Epoch: 1000	MRR: 0.301	Hits@10: 0.496	Hits@5: 0.427	Hits@1: 0.179
+2020-07-14 08:57:08,023 - Epoch: 2000	MRR: 0.300	Hits@10: 0.516	Hits@5: 0.414	Hits@1: 0.175
+2020-07-14 09:06:34,279 - Epoch: 3000	MRR: 0.311	Hits@10: 0.537	Hits@5: 0.443	Hits@1: 0.180
+2020-07-14 09:15:53,759 - Epoch: 4000	MRR: 0.332	Hits@10: 0.546	Hits@5: 0.458	Hits@1: 0.207
+2020-07-14 09:25:10,374 - Epoch: 5000	MRR: 0.322	Hits@10: 0.559	Hits@5: 0.456	Hits@1: 0.188
+2020-07-14 09:34:22,453 - Epoch: 6000	MRR: 0.325	Hits@10: 0.584	Hits@5: 0.485	Hits@1: 0.171
+2020-07-14 09:43:44,799 - Epoch: 7000	MRR: 0.336	Hits@10: 0.591	Hits@5: 0.477	Hits@1: 0.190
+2020-07-14 09:53:07,132 - Epoch: 8000	MRR: 0.312	Hits@10: 0.608	Hits@5: 0.481	Hits@1: 0.147
+2020-07-14 10:02:27,326 - Epoch: 9000	MRR: 0.348	Hits@10: 0.604	Hits@5: 0.479	Hits@1: 0.214
+2020-07-14 10:11:52,350 - Epoch: 10000	MRR: 0.313	Hits@10: 0.585	Hits@5: 0.490	Hits@1: 0.147
+2020-07-14 10:21:12,249 - Epoch: 11000	MRR: 0.328	Hits@10: 0.619	Hits@5: 0.500	Hits@1: 0.166
+2020-07-14 10:30:28,735 - Epoch: 12000	MRR: 0.328	Hits@10: 0.620	Hits@5: 0.499	Hits@1: 0.169
+2020-07-14 10:39:42,907 - Epoch: 13000	MRR: 0.331	Hits@10: 0.613	Hits@5: 0.499	Hits@1: 0.171
+2020-07-14 10:49:02,099 - Epoch: 14000	MRR: 0.327	Hits@10: 0.606	Hits@5: 0.509	Hits@1: 0.164
+2020-07-14 10:59:12,467 - Epoch: 15000	MRR: 0.327	Hits@10: 0.625	Hits@5: 0.506	Hits@1: 0.169
+2020-07-14 11:10:02,912 - Epoch: 16000	MRR: 0.336	Hits@10: 0.620	Hits@5: 0.516	Hits@1: 0.181
+2020-07-14 11:19:18,265 - Epoch: 17000	MRR: 0.338	Hits@10: 0.630	Hits@5: 0.515	Hits@1: 0.180
+2020-07-14 11:26:44,353 - Epoch: 18000	MRR: 0.333	Hits@10: 0.626	Hits@5: 0.515	Hits@1: 0.172
+2020-07-14 11:34:05,413 - Epoch: 19000	MRR: 0.345	Hits@10: 0.616	Hits@5: 0.497	Hits@1: 0.196
+2020-07-14 11:40:58,319 - Epoch: 20000	MRR: 0.342	Hits@10: 0.630	Hits@5: 0.501	Hits@1: 0.188
+2020-07-14 11:48:43,607 - Epoch: 21000	MRR: 0.347	Hits@10: 0.632	Hits@5: 0.510	Hits@1: 0.198
+2020-07-14 11:56:15,011 - Epoch: 22000	MRR: 0.345	Hits@10: 0.620	Hits@5: 0.516	Hits@1: 0.190
+2020-07-14 12:04:05,146 - Epoch: 23000	MRR: 0.336	Hits@10: 0.614	Hits@5: 0.502	Hits@1: 0.182
+2020-07-14 12:11:55,179 - Epoch: 24000	MRR: 0.344	Hits@10: 0.616	Hits@5: 0.502	Hits@1: 0.200
+2020-07-14 12:19:57,655 - Epoch: 25000	MRR: 0.339	Hits@10: 0.615	Hits@5: 0.504	Hits@1: 0.190
+2020-07-14 12:28:05,585 - Epoch: 26000	MRR: 0.338	Hits@10: 0.631	Hits@5: 0.511	Hits@1: 0.185
+2020-07-14 12:35:50,075 - Epoch: 27000	MRR: 0.343	Hits@10: 0.621	Hits@5: 0.499	Hits@1: 0.193
+2020-07-14 12:43:36,385 - Epoch: 28000	MRR: 0.334	Hits@10: 0.630	Hits@5: 0.509	Hits@1: 0.177
+2020-07-14 12:51:27,722 - Epoch: 29000	MRR: 0.344	Hits@10: 0.629	Hits@5: 0.510	Hits@1: 0.188
+2020-07-14 12:59:15,894 - Epoch: 30000	MRR: 0.340	Hits@10: 0.630	Hits@5: 0.512	Hits@1: 0.184
+2020-07-14 13:07:05,642 - Epoch: 31000	MRR: 0.347	Hits@10: 0.642	Hits@5: 0.519	Hits@1: 0.198
+2020-07-14 13:14:53,847 - Epoch: 32000	MRR: 0.336	Hits@10: 0.642	Hits@5: 0.514	Hits@1: 0.175
+2020-07-14 13:22:41,603 - Epoch: 33000	MRR: 0.341	Hits@10: 0.645	Hits@5: 0.527	Hits@1: 0.180
+2020-07-14 13:30:30,893 - Epoch: 34000	MRR: 0.342	Hits@10: 0.645	Hits@5: 0.522	Hits@1: 0.184
+2020-07-14 13:38:30,612 - Epoch: 35000	MRR: 0.340	Hits@10: 0.642	Hits@5: 0.527	Hits@1: 0.176
+2020-07-14 13:46:40,353 - Epoch: 36000	MRR: 0.345	Hits@10: 0.650	Hits@5: 0.541	Hits@1: 0.180
+2020-07-14 13:54:47,867 - Epoch: 37000	MRR: 0.350	Hits@10: 0.647	Hits@5: 0.549	Hits@1: 0.189
+2020-07-14 14:02:36,626 - Epoch: 38000	MRR: 0.344	Hits@10: 0.662	Hits@5: 0.552	Hits@1: 0.171
+2020-07-14 14:10:00,062 - Epoch: 39000	MRR: 0.359	Hits@10: 0.646	Hits@5: 0.534	Hits@1: 0.206
+2020-07-14 14:17:44,910 - Epoch: 40000	MRR: 0.342	Hits@10: 0.646	Hits@5: 0.539	Hits@1: 0.175
+2020-07-14 14:25:45,594 - Epoch: 41000	MRR: 0.352	Hits@10: 0.651	Hits@5: 0.531	Hits@1: 0.198
+2020-07-14 14:32:50,403 - Epoch: 42000	MRR: 0.358	Hits@10: 0.664	Hits@5: 0.544	Hits@1: 0.195
+2020-07-14 14:40:35,139 - Epoch: 43000	MRR: 0.350	Hits@10: 0.651	Hits@5: 0.537	Hits@1: 0.189
+2020-07-14 14:48:50,302 - Epoch: 44000	MRR: 0.345	Hits@10: 0.649	Hits@5: 0.537	Hits@1: 0.182
+2020-07-14 14:56:59,142 - Epoch: 45000	MRR: 0.349	Hits@10: 0.650	Hits@5: 0.542	Hits@1: 0.189
+2020-07-14 15:05:24,604 - Epoch: 46000	MRR: 0.349	Hits@10: 0.656	Hits@5: 0.551	Hits@1: 0.186
+2020-07-14 15:13:26,621 - Epoch: 47000	MRR: 0.345	Hits@10: 0.652	Hits@5: 0.545	Hits@1: 0.175
+2020-07-14 15:21:19,525 - Epoch: 48000	MRR: 0.347	Hits@10: 0.647	Hits@5: 0.527	Hits@1: 0.185
+2020-07-14 15:28:55,881 - Epoch: 49000	MRR: 0.350	Hits@10: 0.656	Hits@5: 0.532	Hits@1: 0.189
+2020-07-14 15:36:35,493 - Epoch: 50000	MRR: 0.342	Hits@10: 0.620	Hits@5: 0.530	Hits@1: 0.185
+2020-07-14 15:44:28,506 - Epoch: 51000	MRR: 0.350	Hits@10: 0.646	Hits@5: 0.545	Hits@1: 0.193
+2020-07-14 15:52:36,614 - Epoch: 52000	MRR: 0.344	Hits@10: 0.641	Hits@5: 0.532	Hits@1: 0.185
+2020-07-14 16:00:41,756 - Epoch: 53000	MRR: 0.347	Hits@10: 0.657	Hits@5: 0.540	Hits@1: 0.180
+2020-07-14 16:08:20,731 - Epoch: 54000	MRR: 0.348	Hits@10: 0.646	Hits@5: 0.541	Hits@1: 0.188
+2020-07-14 16:14:32,706 - Epoch: 55000	MRR: 0.345	Hits@10: 0.657	Hits@5: 0.529	Hits@1: 0.182
+2020-07-14 16:20:40,632 - Epoch: 56000	MRR: 0.348	Hits@10: 0.659	Hits@5: 0.532	Hits@1: 0.181
+2020-07-14 16:26:31,970 - Epoch: 57000	MRR: 0.345	Hits@10: 0.659	Hits@5: 0.541	Hits@1: 0.182
+2020-07-14 16:32:37,363 - Epoch: 58000	MRR: 0.350	Hits@10: 0.671	Hits@5: 0.546	Hits@1: 0.184
+2020-07-14 16:38:50,809 - Epoch: 59000	MRR: 0.354	Hits@10: 0.664	Hits@5: 0.549	Hits@1: 0.199
+2020-07-14 16:45:08,546 - Epoch: 60000	MRR: 0.347	Hits@10: 0.657	Hits@5: 0.546	Hits@1: 0.184
+2020-07-14 16:51:32,400 - Epoch: 61000	MRR: 0.355	Hits@10: 0.652	Hits@5: 0.541	Hits@1: 0.198
+2020-07-14 16:57:49,791 - Epoch: 62000	MRR: 0.351	Hits@10: 0.650	Hits@5: 0.539	Hits@1: 0.189
+2020-07-14 17:04:26,064 - Epoch: 63000	MRR: 0.355	Hits@10: 0.657	Hits@5: 0.532	Hits@1: 0.200
+2020-07-14 17:10:59,157 - Epoch: 64000	MRR: 0.351	Hits@10: 0.654	Hits@5: 0.539	Hits@1: 0.195
+2020-07-14 17:17:10,588 - Epoch: 65000	MRR: 0.351	Hits@10: 0.651	Hits@5: 0.536	Hits@1: 0.193
+2020-07-14 17:23:20,835 - Epoch: 66000	MRR: 0.343	Hits@10: 0.650	Hits@5: 0.545	Hits@1: 0.176
+2020-07-14 17:29:34,364 - Epoch: 67000	MRR: 0.343	Hits@10: 0.656	Hits@5: 0.531	Hits@1: 0.184
+2020-07-14 17:35:37,189 - Epoch: 68000	MRR: 0.376	Hits@10: 0.655	Hits@5: 0.544	Hits@1: 0.234
+2020-07-14 17:41:52,708 - Epoch: 69000	MRR: 0.342	Hits@10: 0.654	Hits@5: 0.525	Hits@1: 0.182
+2020-07-14 17:48:09,270 - Epoch: 70000	MRR: 0.358	Hits@10: 0.642	Hits@5: 0.542	Hits@1: 0.209
+2020-07-14 17:54:22,812 - Epoch: 71000	MRR: 0.355	Hits@10: 0.644	Hits@5: 0.550	Hits@1: 0.198
+2020-07-14 18:00:44,430 - Epoch: 72000	MRR: 0.364	Hits@10: 0.655	Hits@5: 0.537	Hits@1: 0.214
+2020-07-14 18:07:16,710 - Epoch: 73000	MRR: 0.374	Hits@10: 0.641	Hits@5: 0.529	Hits@1: 0.236
+2020-07-14 18:13:23,328 - Epoch: 74000	MRR: 0.367	Hits@10: 0.654	Hits@5: 0.547	Hits@1: 0.220
+2020-07-14 18:19:28,187 - Epoch: 75000	MRR: 0.363	Hits@10: 0.649	Hits@5: 0.547	Hits@1: 0.209
+2020-07-14 18:25:31,730 - Epoch: 76000	MRR: 0.380	Hits@10: 0.651	Hits@5: 0.540	Hits@1: 0.239
+2020-07-14 18:31:33,526 - Epoch: 77000	MRR: 0.379	Hits@10: 0.644	Hits@5: 0.537	Hits@1: 0.241
+2020-07-14 18:37:36,869 - Epoch: 78000	MRR: 0.371	Hits@10: 0.650	Hits@5: 0.531	Hits@1: 0.223
+2020-07-14 18:43:32,026 - Epoch: 79000	MRR: 0.374	Hits@10: 0.651	Hits@5: 0.546	Hits@1: 0.229
+2020-07-14 18:49:32,892 - Epoch: 80000	MRR: 0.350	Hits@10: 0.652	Hits@5: 0.529	Hits@1: 0.194
+2020-07-14 18:55:32,889 - Epoch: 81000	MRR: 0.354	Hits@10: 0.641	Hits@5: 0.536	Hits@1: 0.204
+2020-07-14 19:01:42,993 - Epoch: 82000	MRR: 0.349	Hits@10: 0.632	Hits@5: 0.531	Hits@1: 0.194
+2020-07-14 19:07:51,195 - Epoch: 83000	MRR: 0.354	Hits@10: 0.631	Hits@5: 0.522	Hits@1: 0.207
+2020-07-14 19:14:01,626 - Epoch: 84000	MRR: 0.363	Hits@10: 0.646	Hits@5: 0.529	Hits@1: 0.221
+2020-07-14 19:20:13,741 - Epoch: 85000	MRR: 0.373	Hits@10: 0.652	Hits@5: 0.535	Hits@1: 0.231
+2020-07-14 19:26:23,552 - Epoch: 86000	MRR: 0.379	Hits@10: 0.631	Hits@5: 0.529	Hits@1: 0.244
+2020-07-14 19:32:28,147 - Epoch: 87000	MRR: 0.352	Hits@10: 0.640	Hits@5: 0.541	Hits@1: 0.198
+2020-07-14 19:38:54,088 - Epoch: 88000	MRR: 0.385	Hits@10: 0.632	Hits@5: 0.535	Hits@1: 0.254
+2020-07-14 19:45:06,987 - Epoch: 89000	MRR: 0.372	Hits@10: 0.635	Hits@5: 0.536	Hits@1: 0.230
+2020-07-14 19:51:44,159 - Epoch: 90000	MRR: 0.375	Hits@10: 0.642	Hits@5: 0.546	Hits@1: 0.231
+2020-07-14 19:58:22,023 - Epoch: 91000	MRR: 0.371	Hits@10: 0.635	Hits@5: 0.547	Hits@1: 0.233
+2020-07-14 20:05:11,892 - Epoch: 92000	MRR: 0.376	Hits@10: 0.646	Hits@5: 0.549	Hits@1: 0.235
+2020-07-14 20:12:16,923 - Epoch: 93000	MRR: 0.364	Hits@10: 0.652	Hits@5: 0.541	Hits@1: 0.214
+2020-07-14 20:19:12,256 - Epoch: 94000	MRR: 0.373	Hits@10: 0.654	Hits@5: 0.566	Hits@1: 0.220
+2020-07-14 20:25:23,072 - Epoch: 95000	MRR: 0.381	Hits@10: 0.652	Hits@5: 0.537	Hits@1: 0.246
+2020-07-14 20:31:32,394 - Epoch: 96000	MRR: 0.384	Hits@10: 0.645	Hits@5: 0.541	Hits@1: 0.251
+2020-07-14 20:37:37,536 - Epoch: 97000	MRR: 0.389	Hits@10: 0.630	Hits@5: 0.535	Hits@1: 0.264
+2020-07-14 20:43:50,633 - Epoch: 98000	MRR: 0.389	Hits@10: 0.646	Hits@5: 0.542	Hits@1: 0.260
+2020-07-14 20:49:53,587 - Epoch: 99000	MRR: 0.391	Hits@10: 0.649	Hits@5: 0.561	Hits@1: 0.255
+2020-07-14 20:54:33,307 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-07-14 20:54:54,772 - Epoch: None	MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-07-30 16:12:19,810 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-07-30 16:13:08,195 - Eval state/hw_5shot_0713/state_dict on test set
+2020-07-30 16:13:08,195 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-01 10:16:44,939 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-01 10:17:41,402 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-01 10:17:41,402 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-01 20:28:21,755 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-01 20:28:48,315 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-01 20:28:48,315 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-01 21:15:36,814 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-01 21:16:01,678 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-01 21:16:01,678 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 20:03:11,417 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 20:04:08,994 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 20:04:08,995 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 20:06:54,319 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 20:07:49,718 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 20:07:49,718 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 20:16:11,536 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 20:17:01,503 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 20:17:01,504 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 20:21:34,723 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 20:22:15,584 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 20:22:15,585 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 21:32:38,583 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 21:33:25,742 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 21:33:25,742 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 21:36:24,209 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 21:37:14,437 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 21:37:14,438 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 21:39:55,076 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 21:40:43,999 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 21:40:43,999 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-03 21:42:34,817 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-03 21:43:28,666 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-03 21:43:28,666 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-05 09:34:49,193 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-05 09:36:16,640 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-05 09:36:16,640 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-05 10:29:08,908 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-05 10:29:36,414 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-05 10:29:36,414 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-05 10:55:19,143 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-05 10:55:51,373 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-05 10:55:51,373 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 09:52:41,060 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 09:52:57,303 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 09:52:57,303 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 10:21:15,366 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 10:21:31,361 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 10:21:31,361 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 10:28:56,950 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 10:29:13,000 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 10:29:13,000 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 10:35:15,135 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 10:35:31,285 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 10:35:31,285 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 10:37:56,974 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 10:38:12,881 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 10:38:12,881 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 10:42:17,903 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 10:42:34,004 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 10:42:34,004 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 10:45:35,881 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 10:45:51,881 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 10:45:51,881 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 10:53:33,973 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 10:53:50,009 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 10:53:50,010 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 11:06:59,853 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 11:07:15,779 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 11:07:15,779 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 11:11:52,605 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 11:12:08,438 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 11:12:08,438 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 11:13:36,025 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 11:13:51,968 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 11:13:51,968 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 11:16:20,499 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 11:16:36,529 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 11:16:36,529 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 11:21:20,256 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 11:21:36,235 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 11:21:36,235 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 16:55:05,998 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 16:55:21,907 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 16:55:21,907 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:00:37,655 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:00:53,500 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:00:53,500 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:05:06,069 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:05:22,067 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:05:22,067 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:07:15,052 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:07:31,235 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:07:31,235 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:09:42,471 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:09:58,371 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:09:58,371 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:12:27,478 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:12:43,681 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:12:43,681 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:15:35,697 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:15:51,694 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:15:51,695 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:17:11,888 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:17:27,865 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:17:27,865 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:20:05,235 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:20:21,490 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:20:21,491 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:23:02,786 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:23:18,630 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:23:18,630 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-08-06 17:26:07,592 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-08-06 17:26:23,636 - Eval state/hw_5shot_0713/state_dict on test set
+2020-08-06 17:26:23,636 - MRR: 0.571	Hits@10: 0.775	Hits@5: 0.692	Hits@1: 0.461
+2020-09-15 15:20:10,621 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-09-15 15:20:12,348 - Eval state/hw_5shot_0713/state_dict on test set
+2020-09-15 15:20:12,348 - MRR: 0.027	Hits@10: 0.039	Hits@5: 0.025	Hits@1: 0.000
+2020-09-15 15:30:00,994 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-09-15 15:30:01,952 - Eval state/hw_5shot_0713/state_dict on test set
+2020-09-15 15:30:01,952 - MRR: 0.027	Hits@10: 0.039	Hits@5: 0.025	Hits@1: 0.000
+2020-09-15 15:34:15,478 - Reload state_dict from state/hw_5shot_0713/state_dict
+2020-09-15 15:34:16,392 - Eval state/hw_5shot_0713/state_dict on test set
+2020-09-15 15:34:16,392 - MRR: 0.027	Hits@10: 0.039	Hits@5: 0.025	Hits@1: 0.000
