@@ -2,7 +2,11 @@ from collections import defaultdict
 import numpy as np
 import json
 import argparse
-
+#这段代码应该是将NELL转换成NELL-one
+#而我自己需要的是，如何将自己和NELL-one相同的数据转换成为NELL同类的数据。应该是一个逆操作
+#BG：In-Train设定的理解：
+#GMatching这个工作一开始会将所有样本放进去训练，然后学习到一个初始的embedding。然后在使用train、dev、test进行训练。
+#这个所有样本，就是train + path_graph中的数据
 args = argparse.ArgumentParser()
 args.add_argument("-path", "--dataset_path", default="./NELL", type=str)  # ./Wiki
 args.add_argument("-data", "--dataset_name", default="NELL-One", type=str)  # Wiki-One
@@ -17,7 +21,7 @@ path = {
     'dev_tasks': '/dev_tasks.json',
     'rel2candidates': '/rel2candidates.json',
     'e1rel_e2': '/e1rel_e2.json',
-    'path_graph': '/path_graph',
+    'path_graph': '/path_graph', #这个是原本的Wiki和NELL数据中有的
     'ent2emb': '/entity2vec.TransE'
 }
 
@@ -34,7 +38,7 @@ rel2candidates = json.load(open(dire+path['rel2candidates']))
 ent2emb = np.loadtxt(dire+path['ent2emb'], dtype=np.float32)
 
 # convert entity2vec to .npy
-np.save('ent2vec.npy', ent2emb)
+np.save('ent2vec.npy', ent2emb) #TODO：逆操作，这里我需要将自己的ent2vec.npy转换成ent2emb文件。应该是每个实体的embedidng。如果我想随机的话，应该自己随机生成一个
 
 entity = set()
 path_graph = []
@@ -43,14 +47,14 @@ for line in path_graph_lines:
     entity.add(triple[0])
     entity.add(triple[2])
     path_graph.append(triple)
-json.dump(path_graph, open(dire+'/path_graph.json', 'w'))
+json.dump(path_graph, open(dire+'/path_graph.json', 'w')) #TODO：这里保存了path_graph，但是好像metaR的模型中不需要这个数据
 
 # train_tasks_in_train
 print("Writing train_tasks_in_train.json ... ...")
-path_graph_tasks = defaultdict(list)
+path_graph_tasks = defaultdict(list) #这里是构造一个path_graph_tasks字典，当通过这个字典查找值不存在的时候，返回一个空的列表（list）
 for p in path_graph:
-    path_graph_tasks[p[1]].append(p)
-train_tasks_in_train = {**train_tasks, **path_graph_tasks}
+    path_graph_tasks[p[1]].append(p) #通过将关系p[1]为key,该关系下每个三元组组合成为列表
+train_tasks_in_train = {**train_tasks, **path_graph_tasks} #这里完全是结构了，但是tranin和这个合并有什么特殊的意义吗？
 json.dump(train_tasks_in_train, open(dire+'/train_tasks_in_train.json', 'w'))
 
 # rel2candidates_in_train
