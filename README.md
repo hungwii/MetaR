@@ -1,4 +1,4 @@
-## MetaR
+## MeLDTI
 主函数有两个：main.py和main_output_rel.py.
 
 main.py: 跑模型
